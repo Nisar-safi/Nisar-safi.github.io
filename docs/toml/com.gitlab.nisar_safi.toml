@@ -27,7 +27,7 @@ available = true
 allow_listing = true  # Allow listing in services
 
 [[data.website]]
-text = "https://www.linkedin.com/in/nisar-safi-546a532a6?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+text = "https://www.linkedin.com/in/nisar-safi-546a532a6?"
 id = "lap77mv0f"
 
 [[data.website]]
