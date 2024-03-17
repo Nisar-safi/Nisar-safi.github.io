@@ -4,7 +4,7 @@ file_language = "en"
 tags = [ "Design", "JavaScript", "React", "Programming", "developer"  ]
 [data] 
 name = "Nisar Safi"
-profile_image =  "https://i.imgur.com/uef2oSn.jpeg" 
+profile_image =  [ "https://i.imgur.com/4oRJU3b.png" ] 
 
 user_description = """Front-End Developer
 
