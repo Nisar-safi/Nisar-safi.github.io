@@ -6,7 +6,7 @@ tags = [ "Design", "C", "image", "Programming", "logo" ]
 name = "Nisar Safi"
 profile_image =  "https://picsum.photos/id/175/100/100" 
 
-user_description = """I'm a front-end developer specializing in JavaScript:
+user_description = 
 
 "I'm a seasoned front-end developer with extensive experience working on large-scale projects within small, agile teams. Over the past five years, I've honed my skills at an anonymous corporation, contributing to the success of various initiatives. Outside of coding, you'll often find me cheering for my favorite football team or indulging in delicious seafood delicacies." :smile:
 """
