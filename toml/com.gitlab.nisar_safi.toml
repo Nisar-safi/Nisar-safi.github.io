@@ -1,0 +1,96 @@
+file_format = "0.1.1"
+file_language = "en" 
+
+tags = [ "Design", "JavaScript", "React", "Programming", "developer"  ]
+[data] 
+name = "Nisar Safi"
+profile_image = "https://i.imgur.com/4oRJU3b.png"
+ 
+
+user_description = """Front-End Developer
+
+With a passion for crafting engaging and dynamic web experiences, I am a Front-End Developer specializing in HTML, CSS, and JavaScript technologies. With proficiency in frameworks such as Tailwind CSS, Bootstrap, and jQuery, I bring creativity and efficiency to every project I undertake.
+
+Having honed my skills over one and a half years of professional experience, I have collaborated with diverse teams, leveraging my expertise to deliver high-quality solutions. My ability to translate design concepts into responsive and intuitive user interfaces has been instrumental in the success of numerous projects.
+
+Equipped with a keen eye for detail and a commitment to staying updated with the latest industry trends, I am dedicated to pushing boundaries and continuously refining my craft. Whether it's optimizing performance, enhancing accessibility, or ensuring cross-browser compatibility, I thrive on overcoming challenges and delivering exceptional results.
+
+I am eager to contribute my skills and expertise to innovative projects, furthering my growth as a front-end developer while making meaningful contributions to the digital landscape.
+
+
+"""
+
+
+
+hourly_rate = 67
+available = true
+allow_listing = true  # Allow listing in services
+
+[[data.website]]
+text = "https://www.linkedin.com/in/nisar-safi-546a532a6?"
+id = "lap77mv0f"
+
+[[data.website]]
+text = "https://www.upwork.com/freelancers/~015b0d3818686ae121"
+id = "lap77mv0f"
+
+[[data.website]]
+text = "https://www.linkedin.com/in/nisar-safi-546a532a6?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+id = "lap7xv0f"
+
+[[data.website]]
+text = ""
+id = "lap7xv6f"
+
+[[data.website]]
+text = "https://github.com/Nisar-safi"
+id = "lap7xv5f"
+
+[[data.website]]
+text = "https://www.facebook.com/profile.php?id=100048585952132&mibextid=ZbWKwL"
+id = "lap7xvnf"
+
+[[data.website]]
+text = "https://nisar-safi.github.io/com.gitlab.nisar_safi/"
+id = "ilia4uin2"
+
+[data.addresses]
+
+bch = "bitcoincash:qzgl22szd975lgghhd6um392g8dvkjzz7syn6mg8gz"
+ltc = "LLTzfkj7iCKWc2HeQXr3ofK3Ru7Xvs8gFe"
+
+[[services]]
+category = "Programming"
+sub_category = "JavaScript"
+title = "Professional JavaScript development"
+description = """
+I can help you build your project in JavaScript language for maximum speed and efficiency
+
+* test
+* test2
+* test3 
+
+#### another title
+
+"""
+price = 80
+service_image = [ "https://i.imgur.com/dw5qnqv.png" ]
+id = "e49rbewvo"
+
+[[services]]
+category = "Design"
+sub_category = "image"
+title = "Design website for Your Business"
+description = "Passionate about crafting professional websites that resonate with users, I bring over one and a half years of experience to the table. Specializing in HTML, CSS, Tailwind CSS, Bootstrap, jQuery, and JavaScript, I thrive on using these tools create compelling online experiences for businesses and brands."
+price = 50
+service_image = [ "https://i.imgur.com/4oRJU3b.png" ]
+id = "fkuhws01b"
+
+[[services]]
+category = "Design"
+sub_category = "logo"
+title = "Professional website  design"
+description = "I've created several websites for respected business that got approved by higher management and are being used as brand website"
+price = 60
+service_image = [ "https://i.imgur.com/pdh2lx9.jpeg" ]
+id = "893eurqly"
