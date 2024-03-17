@@ -6,8 +6,17 @@ tags = [ "Design", "C", "image", "Programming", "logo" ]
 name = "Nisar Safi"
 profile_image =  "https://i.imgur.com/4oRJU3b.png" 
 
-user_description = """I'm a seasoned front-end developer with extensive experience working on large-scale projects within small, agile teams. Over the past five years,
-I've honed my skills at an anonymous corporation, contributing to the success of various initiatives. Outside of coding, you'll often find me cheering for my favorite football team or indulging in delicious seafood delicacies." :smile:
+user_description = """Front-End Developer
+
+With a passion for crafting engaging and dynamic web experiences, I am a Front-End Developer specializing in HTML, CSS, and JavaScript technologies. With proficiency in frameworks such as Tailwind CSS, Bootstrap, and jQuery, I bring creativity and efficiency to every project I undertake.
+
+Having honed my skills over one and a half years of professional experience, I have collaborated with diverse teams, leveraging my expertise to deliver high-quality solutions. My ability to translate design concepts into responsive and intuitive user interfaces has been instrumental in the success of numerous projects.
+
+Equipped with a keen eye for detail and a commitment to staying updated with the latest industry trends, I am dedicated to pushing boundaries and continuously refining my craft. Whether it's optimizing performance, enhancing accessibility, or ensuring cross-browser compatibility, I thrive on overcoming challenges and delivering exceptional results.
+
+I am eager to contribute my skills and expertise to innovative projects, furthering my growth as a front-end developer while making meaningful contributions to the digital landscape.
+
+ :smile:
 """
 
 
