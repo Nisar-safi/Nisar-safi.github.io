@@ -3,7 +3,7 @@ file_language = "en"
 
 tags = [ "Design", "C", "image", "Programming", "logo" ]
 
-[data]
+[[data]] 
 name = "Nisar Safi"
 profile_image = [ "https://picsum.photos/id/163/700/400" ]
 
