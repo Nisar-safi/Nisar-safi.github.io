@@ -2,10 +2,9 @@ file_format = "0.1.1"
 file_language = "en"
 
 tags = [ "Design", "C", "image", "Programming", "logo" ]
-
-[[data]] 
+[data] 
 name = "Nisar Safi"
-profile_image = [ "https://picsum.photos/id/163/700/400" ]
+profile_image =  "https://picsum.photos/id/163/700/400" 
 
 user_description = """
 Senior developer worked on large projects with few team members. I enjoy football and seafood. I've worked in an anonymous corporation for 5 years. :smile:
