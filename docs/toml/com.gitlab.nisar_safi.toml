@@ -1,7 +1,7 @@
 file_format = "0.1.1"
 file_language = "en"
 
-tags = [ "Design", "C", "image", "Programming", "logo" ]
+tags = [ "Design", "JavaScript", "React", "Programming", "developer"  ]
 [data] 
 name = "Nisar Safi"
 profile_image =  "https://i.imgur.com/uef2oSn.jpeg" 
