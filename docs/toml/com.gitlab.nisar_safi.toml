@@ -5,7 +5,7 @@ tags = [ "Design", "C", "image", "Programming", "logo" ]
 
 [data]
 name = "Nisar Safi"
-profile_image = "Web developer https://imgur.com/a/y2t86cG.png"
+profile_image = [ "https://picsum.photos/id/163/700/400" ]
 
 user_description = """
 Senior developer worked on large projects with few team members. I enjoy football and seafood. I've worked in an anonymous corporation for 5 years. :smile:
