@@ -4,12 +4,13 @@ file_language = "en"
 tags = [ "Design", "C", "image", "Programming", "logo" ]
 [data] 
 name = "Nisar Safi"
-profile_image =  "https://picsum.photos/id/175/100/100" 
+profile_image =  "https://i.imgur.com/4oRJU3b.png" 
 
-user_description = 
-
-"I'm a seasoned front-end developer with extensive experience working on large-scale projects within small, agile teams. Over the past five years, I've honed my skills at an anonymous corporation, contributing to the success of various initiatives. Outside of coding, you'll often find me cheering for my favorite football team or indulging in delicious seafood delicacies." :smile:
+user_description = """I'm a seasoned front-end developer with extensive experience working on large-scale projects within small, agile teams. Over the past five years,
+I've honed my skills at an anonymous corporation, contributing to the success of various initiatives. Outside of coding, you'll often find me cheering for my favorite football team or indulging in delicious seafood delicacies." :smile:
 """
+
+
 
 hourly_rate = 13
 available = true
@@ -63,7 +64,7 @@ I can help you build your project in C language for maximum speed and efficiency
 
 """
 price = 80
-service_image = [ "https://picsum.photos/id/20/700/400" ]
+service_image = [ "https://i.imgur.com/4oRJU3b.png" ]
 id = "e49rbewvo"
 
 [[services]]
@@ -72,7 +73,7 @@ sub_category = "image"
 title = "Design Images for Your Business"
 description = "I've experience in using Gimp to create professional images for your website and business"
 price = 50
-service_image = [ "https://picsum.photos/id/0/700/400" ]
+service_image = [ "https://i.imgur.com/4oRJU3b.png" ]
 id = "fkuhws01b"
 
 [[services]]
