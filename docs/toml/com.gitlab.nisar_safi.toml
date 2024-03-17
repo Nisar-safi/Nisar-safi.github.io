@@ -73,7 +73,7 @@ I can help you build your project in JavaScript language for maximum speed and e
 
 """
 price = 80
-service_image = [ "https://i.imgur.com/uef2oSn.jpeg" ]
+service_image = ["https://i.imgur.com/uef2oSn.jpeg"]
 id = "e49rbewvo"
 
 [[services]]
